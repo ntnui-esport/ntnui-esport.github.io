@@ -1,6 +1,4 @@
-**# ntnui-esport.github.io
-Discord bot for NTNUI E-Sport: inhouse matchmaking, drafts and events for our student community.
-**# NTNUI E-Sport Inhouse Bot
+# NTNUI E-Sport Inhouse Bot
 
 The Discord bot for **NTNUI E-Sport**, the esports group of NTNUI, the student sports club at NTNU in Trondheim, Norway.
 
